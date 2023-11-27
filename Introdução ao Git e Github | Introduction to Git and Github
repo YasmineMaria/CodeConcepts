@@ -1,0 +1,70 @@
+Introdução ao Git e Github | Introduction to Git and Github
+**Avaible in english and Portuguese.*
+
+# O que é Controle de Versões e Por que isso Importa
+
+Como você controlaria as versões de um projeto extenso e colaborativo sem os sistemas de Controle de Versão? *Seria difícil, não acha?!*
+
+
+------------------------------------------------------------------
+🔥 **👩‍🔬 Ei, estou construindo um projeto maravilhoso...**
+
+👨‍🔬 **Ops, acho que você cometeu um erro nesta versão.**
+
+**👩‍🔬: Ai meu Deus! O que eu faço agora?! EU PERDI O CONTROLE!**
+
+------------------------------------------------------------------
+
+Sim, você perde o controle do projeto facilmente se não usar sistemas de controle.
+
+Com um controle de versões ao longo de todo o projeto você estará mais seguro devido ao fato de que será fácil registrar os estados anteriores do código.
+
+Portanto, eu realmente sugiro que você use Sistemas de Controle de Versão.
+
+→ Eu também convido você a usar o Sistema de Versão Distribuída - [para saber mais você pode ler a página um do Livro Git aqui.](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+
+Os Sistemas de Versão Distribuída permitem que você:
+
+
+------------------------------------------------------------------
+📎 **Bem, como o nome diz, o código é distribuído em diferentes computadores colaborando com diferentes pessoas que terão todas as versões anteriores do projeto.**
+
+------------------------------------------------------------------
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1c0d0a6b-288b-4fb1-8643-466a4bafc3b5/eee4b581-36dd-4e21-96b0-efd4bf5a561a/Untitled.png)
+
+---
+
+ENGLISH VERSION:
+
+# What is Version Control and Why Does it Matter
+
+How would you control the versions of an extensive and collaborative project without Version Control Systems? *It would be difficult, wouldn't you agree?!*
+
+------------------------------------------------------------------
+🔥 **👩‍🔬 Hey, I'm building a wonderful project...**
+
+👨‍🔬 **Oops, I think you made a mistake in this version.**
+
+**👩‍🔬: Oh my God! What do I do now?! I'VE LOST CONTROL!**
+
+
+------------------------------------------------------------------
+
+Yes, you easily lose control of the project if you don't use control systems.
+
+With version control throughout the project, you will be safer because it will be easy to record the previous states of the code.
+
+Therefore, I really suggest that you use Version Control Systems.
+
+→ I also invite you to use the Distributed Version System - [to learn more you can read page one of the Git Book here.](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+
+Distributed Version Systems allow you to:
+
+
+------------------------------------------------------------------
+📎 **Well, as the name suggests, the code is distributed on different computers collaborating with different people who will have all the previous versions of the project.**
+
+------------------------------------------------------------------
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1c0d0a6b-288b-4fb1-8643-466a4bafc3b5/eee4b581-36dd-4e21-96b0-efd4bf5a561a/Untitled.png)
